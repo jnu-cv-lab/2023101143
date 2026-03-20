@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/home/administrator/lab01/.venv/bin/python",
+    "python.terminal.activateEnvironment": true
+}
