@@ -17,7 +17,7 @@
 - 输出图像左上角像素值
 
 ## 项目结构
-
+、、、
 2023101143-automation-ShenJiake-homework1/
 ├── src/
 │ ├── main.py # 主程序
@@ -27,7 +27,7 @@
 ├── requirements-lab01.txt # 项目依赖
 ├── .gitignore
 └── README.md
-
+、、、
 ## 运行环境
 
  Python 3.12
