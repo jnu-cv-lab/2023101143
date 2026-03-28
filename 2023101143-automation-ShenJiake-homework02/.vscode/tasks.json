@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build main",
+            "type": "shell",
+            "command": "bash",
+            "args": [
+                "-c",
+                "g++ -g \"${workspaceFolder}/main.cpp\" -o \"${workspaceFolder}/build/main\" `pkg-config --cflags --libs opencv4`"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        },
+       
+    ]
+}

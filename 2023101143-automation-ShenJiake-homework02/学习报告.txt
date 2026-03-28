@@ -1,0 +1,2 @@
+为了能够对多个文件进行编译，可以在tasks.json里修改args。
+在"g++ -g \"${workspaceFolder}/main.cpp\" -o \"${workspaceFolder}/build/main\" `pkg-config --cflags --libs opencv4`"这一行的“-g”后加入更多的cpp文件。
