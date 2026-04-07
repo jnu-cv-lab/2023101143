@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/path/to/your/virtualenv/bin/python",  // 根据你的虚拟环境调整路径
+    "python.dontWriteBytecode": true,  // 禁用 .pyc 文件缓存
+    "python.linting.enabled": true,    // 启用代码检查
+    "python.linting.pylintEnabled": true,  // 启用 pylint
+    "python.linting.pylintArgs": ["--disable=C0111"], // 可以根据需要禁用某些检查项
+    "python.formatting.autopep8Path": "autopep8",  // 配置自动格式化工具路径
+    "python.formatting.autopep8Args": ["--max-line-length=100"],  // 配置行长度
+    "python.formatting.blackPath": "black",  // 配置黑色格式化工具路径
+    "python.formatting.blackArgs": ["--line-length", "100"]  // 配置黑色格式化工具的行长度
+}
