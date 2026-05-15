@@ -1,0 +1,3 @@
+Optimizer,Learning Rate,Test Loss,Test Accuracy
+SGD,0.01,0.0296,0.9906
+Adam,0.001,0.0384,0.9877

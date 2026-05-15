@@ -1,0 +1,22 @@
+=== Environment Check ===
+Python: 3.14.4
+PyTorch: 2.12.0+cpu
+CUDA available: False
+Device: cpu
+Simple tensor operation result: [[4.0, 4.0], [10.0, 8.0]]
+
+=== Training with SGD (lr=0.01) ===
+Epoch 01/5 | train loss 0.2965, train acc 0.9037 | val loss 0.0829, val acc 0.9749
+Epoch 02/5 | train loss 0.0784, train acc 0.9760 | val loss 0.0606, val acc 0.9834
+Epoch 03/5 | train loss 0.0570, train acc 0.9820 | val loss 0.0508, val acc 0.9846
+Epoch 04/5 | train loss 0.0457, train acc 0.9858 | val loss 0.0538, val acc 0.9843
+Epoch 05/5 | train loss 0.0398, train acc 0.9872 | val loss 0.0410, val acc 0.9875
+Test loss: 0.0296, test accuracy: 0.9906
+
+=== Training with Adam (lr=0.001) ===
+Epoch 01/5 | train loss 0.2296, train acc 0.9305 | val loss 0.0723, val acc 0.9782
+Epoch 02/5 | train loss 0.0696, train acc 0.9786 | val loss 0.0489, val acc 0.9847
+Epoch 03/5 | train loss 0.0508, train acc 0.9842 | val loss 0.0503, val acc 0.9852
+Epoch 04/5 | train loss 0.0393, train acc 0.9876 | val loss 0.0489, val acc 0.9863
+Epoch 05/5 | train loss 0.0342, train acc 0.9887 | val loss 0.0454, val acc 0.9877
+Test loss: 0.0384, test accuracy: 0.9877
