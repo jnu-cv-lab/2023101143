@@ -1,0 +1,26 @@
+{
+  "seq_len": 16,
+  "dim": 8,
+  "sinusoidal_shape": [
+    16,
+    8
+  ],
+  "rotated_vector_60deg": [
+    0.5,
+    0.866025
+  ],
+  "raw_score_mean": -0.07853697179301754,
+  "rope_score_mean": 0.047800670553706105,
+  "epos_score_mean": 4.023570481319771,
+  "relative_property": {
+    "max_std_same_delta": 1.3073632349040793e-15,
+    "max_range_same_delta": 2.6645352591003757e-15,
+    "num_deltas": 39.0
+  },
+  "figures": [
+    "outputs/sinusoidal_pe.png",
+    "outputs/epos_scores.png",
+    "outputs/rope_scores.png",
+    "outputs/rope_relative_curve.png"
+  ]
+}
