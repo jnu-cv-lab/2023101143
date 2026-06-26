@@ -1,0 +1,152 @@
+[
+  {
+    "image_path": "chessboard\\1.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\1_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\2.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\2_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\3.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\3_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\4.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\4_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\5.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\5_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\6.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\6_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\7.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\7_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\8.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\8_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\9.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\9_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\10.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\10_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\11.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\11_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\12.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\12_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\13.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\13_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\14.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\14_corners.jpg",
+    "message": "rotated_90_clockwise"
+  },
+  {
+    "image_path": "chessboard\\15.jpg",
+    "success": true,
+    "image_size": [
+      3072,
+      4096
+    ],
+    "corners_path": "outputs\\corners\\15_corners.jpg",
+    "message": "rotated_90_clockwise"
+  }
+]

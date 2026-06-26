@@ -1,0 +1,116 @@
+{
+  "pattern_size": [
+    9,
+    6
+  ],
+  "square_size_mm": 25.0,
+  "image_size": [
+    3072,
+    4096
+  ],
+  "num_images_total": 15,
+  "num_images_used": 15,
+  "used_images": [
+    "chessboard\\1.jpg",
+    "chessboard\\2.jpg",
+    "chessboard\\3.jpg",
+    "chessboard\\4.jpg",
+    "chessboard\\5.jpg",
+    "chessboard\\6.jpg",
+    "chessboard\\7.jpg",
+    "chessboard\\8.jpg",
+    "chessboard\\9.jpg",
+    "chessboard\\10.jpg",
+    "chessboard\\11.jpg",
+    "chessboard\\12.jpg",
+    "chessboard\\13.jpg",
+    "chessboard\\14.jpg",
+    "chessboard\\15.jpg"
+  ],
+  "orientation_normalization": [
+    "rotated_90_clockwise",
+    "rotated_90_clockwise",
+    "rotated_90_clockwise",
+    "rotated_90_clockwise",
+    "rotated_90_clockwise",
+    "rotated_90_clockwise",
+    "rotated_90_clockwise",
+    "rotated_90_clockwise",
+    "rotated_90_clockwise",
+    "rotated_90_clockwise",
+    "rotated_90_clockwise",
+    "rotated_90_clockwise",
+    "rotated_90_clockwise",
+    "rotated_90_clockwise",
+    "rotated_90_clockwise"
+  ],
+  "camera_matrix": [
+    [
+      2872.193199916294,
+      0.0,
+      1524.156414537291
+    ],
+    [
+      0.0,
+      2871.7094559482057,
+      2037.0582796334872
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "distortion_coefficients": [
+    0.058678910648390224,
+    -0.1609784017065316,
+    -0.000328743227775103,
+    -0.00020846677332427116,
+    0.009601501918382183
+  ],
+  "rms_error": 1.2266447056088696,
+  "mean_reprojection_error_px": 1.2266454671725855,
+  "per_image_reprojection_error_px": [
+    1.2607102832335444,
+    1.4071767299959965,
+    1.12072267814334,
+    1.1491516097174432,
+    1.1315241441709734,
+    1.5236118392143037,
+    0.9113065252584442,
+    1.1955228938154885,
+    1.1837188312530587,
+    1.021036961720321,
+    1.1550651776521725,
+    1.1921637824229079,
+    1.2728460688180832,
+    1.4811997790973055,
+    1.2446123191375944
+  ],
+  "undistorted_outputs": [
+    {
+      "image": "1.jpg",
+      "original": "outputs\\undistorted\\original_1.jpg",
+      "undistorted": "outputs\\undistorted\\undistorted_1.jpg",
+      "cropped": "outputs\\undistorted\\undistorted_1_cropped.jpg"
+    },
+    {
+      "image": "14.jpg",
+      "original": "outputs\\undistorted\\original_14.jpg",
+      "undistorted": "outputs\\undistorted\\undistorted_14.jpg",
+      "cropped": "outputs\\undistorted\\undistorted_14_cropped.jpg"
+    },
+    {
+      "image": "4.jpg",
+      "original": "outputs\\undistorted\\original_4.jpg",
+      "undistorted": "outputs\\undistorted\\undistorted_4.jpg",
+      "cropped": "outputs\\undistorted\\undistorted_4_cropped.jpg"
+    },
+    {
+      "image": "8.jpg",
+      "original": "outputs\\undistorted\\original_8.jpg",
+      "undistorted": "outputs\\undistorted\\undistorted_8.jpg",
+      "cropped": "outputs\\undistorted\\undistorted_8_cropped.jpg"
+    }
+  ]
+}
